@@ -1,4 +1,4 @@
-# airprobe
+# AirProbe
 - Monitor PM2.5
 - Monitor CO2
 - Monitor temperature and humidity
